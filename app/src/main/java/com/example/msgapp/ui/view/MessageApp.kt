@@ -146,6 +146,7 @@ fun MessageApp(viewModel: MessageViewModel) {
     }
 }
 
+
 @Composable
 fun MessageBubble(content: String, isUserMessage: Boolean) {
 
